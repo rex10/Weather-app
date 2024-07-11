@@ -34,7 +34,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 Follow this Steps 
 - Clone this repo https://github.com/rex10/weather-app.git in your system or code editer
 - run `npm install`
-- generate repid api key go to https://rapidapi.com/wirefreethought/api/geodb-cities/ this site and ligin with your user credential and subscribe the api, For more crearity follow this link https://www.awesomescreenshot.com/video/11649834?key=954bfe5a64cb72157a2f2da810242ad9 
+- generate repid api key go to https://rapidapi.com/wirefreethought/api/geodb-cities/ this site and login with your user credential and subscribe the api, For more crearity follow this link https://www.awesomescreenshot.com/video/11649834?key=954bfe5a64cb72157a2f2da810242ad9 
 copy key and paste in src/components/api.js at line 4 "X-RapidAPI-Key": "paste key here".
 
 finally run `npm start`
